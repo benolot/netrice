@@ -3,11 +3,11 @@ Simple Single Element CSS Spinners/Loaders
 
 # TODO
 
-[ ] Github pages Website
-[ ] Add proper documentation for contributors
-[ ] Issue template
-[ ] Complete half circle spinner
-[ ] Make colours and sizing and speed controlable with classes
+- [ ] Github pages Website
+- [ ] Add proper documentation for contributors
+- [ ] Issue template
+- [ ] Complete half circle spinner
+- [ ] Make colours and sizing and speed controlable with classes
 
 `gulp build`
 
