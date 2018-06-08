@@ -6,7 +6,6 @@ Simple Single Element CSS Spinners/Loaders
 - [ ] Github pages Website
 - [ ] Add proper documentation for contributors
 - [ ] Issue template
-- [ ] Complete half circle spinner
 - [ ] Make colours and sizing and speed controlable with classes
 
 ## Notes
