@@ -1,7 +1,7 @@
 # netrice
 Simple Single Element CSS Spinners/Loaders
 
-# TODO
+## TODO
 
 - [ ] Github pages Website
 - [ ] Add proper documentation for contributors
@@ -9,6 +9,7 @@ Simple Single Element CSS Spinners/Loaders
 - [ ] Complete half circle spinner
 - [ ] Make colours and sizing and speed controlable with classes
 
+## Notes
 `gulp build`
 
 `gulp watch`
