@@ -5,6 +5,8 @@ Simple Single Element CSS Spinners/Loaders
 
 - [ ] Github pages Website
 - [ ] Add proper documentation for contributors
+- [ ] Add proper documentation for users (How to use)
+- [ ] Investigate and setup SCSS quality checks
 - [ ] Issue template
 - [ ] Make colours and sizing and speed controlable with classes
 
