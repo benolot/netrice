@@ -90,7 +90,7 @@
   height: 120px;
   animation: loader-spin 2s linear infinite; }
 
-.loader-square-rotating {
+.loader-square-folding {
   width: 120px;
   height: 120px;
   background-color: #3cba54;
