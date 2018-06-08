@@ -1,0 +1,23 @@
+@import 'variables';
+
+// Import animations
+@import 'animations';
+
+// Whole circle
+@import 'loaders/circle';
+// Quarter Circle
+@import 'loaders/circle-single';
+@import 'loaders/circle-single-transparent';
+// Two seperate Quarters
+@import 'loaders/circle-double';
+@import 'loaders/circle-double-transparent';
+// Semi circle
+@import 'loaders/circle-half';
+@import 'loaders/circle-half-transparent';
+// 3/4 of a circle
+@import 'loaders/circle-triple';
+@import 'loaders/circle-triple-transparent';
+// Square
+@import 'loaders/square-folding';
+@import 'loaders/square-spinning';
+

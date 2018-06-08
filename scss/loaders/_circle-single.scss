@@ -1,0 +1,8 @@
+.loader-circle-single {
+    border: 30px solid $color-five;
+    border-top: 30px solid $color-one;
+	border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    animation: loader-spin 2s linear infinite;
+}

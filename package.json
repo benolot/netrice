@@ -1,0 +1,35 @@
+{
+  "name": "netrice",
+  "version": "1.0.0",
+  "description": "Simple Single Element CSS Spinners/Loaders",
+  "main": "gulp",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benolot/netrice.git"
+  },
+  "keywords": [
+    "css",
+    "loaders",
+    "spinners"
+  ],
+  "author": "Benolot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benolot/netrice/issues"
+  },
+  "homepage": "https://github.com/benolot/netrice#readme",
+  "devDependencies": {
+    "gulp-autoprefixer": "2.1.0",
+    "gulp-minify-css": "1.0.0",
+    "gulp-plumber": "1.0.0",
+    "gulp-rename": "1.2.2",
+    "gulp-sass": "4.0.1",
+    "gulp": "3.9.1"
+  },
+  "dependencies": {
+    "node-sass": "^4.9.0"
+  }
+}

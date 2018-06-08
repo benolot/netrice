@@ -1,0 +1,6 @@
+.loader-square-rotating {
+	width: 120px;
+    height: 120px;
+    background-color: $color-one;
+    animation: loader-rotate-square 1.75s ease-in-out infinite;
+}

@@ -1,0 +1,9 @@
+.loader-circle-half-transparent {
+	border: 30px solid rgba(0, 0, 0, 0);
+    border-right: 30px solid $color-one;
+	border-bottom: 30px solid $color-one;
+	border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    animation: loader-spin 2s linear infinite;
+}
