@@ -27,6 +27,13 @@ Requirements for PR:
 
 - 4 spaces (no tabs)
 - Correct file placement
+- Correct file naming
 - Built distribution CSS
 - Provide transparent and non transparent versions where applicable
 - uses variables not hard coded
+
+## Usage
+
+_Coming Soon_
+
+Example usage: `<div class="loader-circle"></div>` or `<div class="loader-square-folding"></div>`
