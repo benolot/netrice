@@ -1,10 +1,10 @@
-# netrice
+# Netrice
 Simple Single Element CSS Spinners/Loaders
 
 ## TODO
 
 - [ ] Github pages Website
-- [ ] Add proper documentation for contributors
+- [X] Add proper documentation for contributors (See Contributing.md)
 - [ ] Add proper documentation for users (How to use)
 - [ ] Investigate and setup SCSS quality checks
 - [ ] Issue template
@@ -36,4 +36,4 @@ Requirements for PR:
 
 _Coming Soon_
 
-Example usage: `<div class="loader-circle"></div>` or `<div class="loader-square-folding"></div>`
+Example usage: `<div class="netrice-circle"></div>` or `<div class="netrice-square-folding"></div>`

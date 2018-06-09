@@ -1,9 +1,9 @@
-@keyframes loader-spin {
+@keyframes netrice-spin {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
 }
 
-@keyframes loader-rotate-square {
+@keyframes netrice-rotate-square {
     0% { 
         transform: perspective(120px) rotateX(0deg) rotateY(0deg);
     } 50% { 
