@@ -6,7 +6,7 @@ var minifycss = require('gulp-minify-css');
 var sass = require('gulp-sass');
 
 gulp.task('build', function () {
-    gulp.src(['scss/**/*.scss'])
+    gulp.src(['scss/netrice.scss'])
         .pipe(plumber({
             errorHandler: function (error) {
                 console.log(error.message);
@@ -19,6 +19,7 @@ gulp.task('build', function () {
         .pipe(rename({ suffix: '.min' }))
         .pipe(minifycss())
         .pipe(gulp.dest('dist/'))
+        .pipe(gulp.dest('docs/'))
 });
 
 gulp.task('watch', function () {

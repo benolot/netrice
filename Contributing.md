@@ -13,6 +13,7 @@ Thanks for your interest in contributing to this project. To help ensure the lib
 - [ ] Distribution CSS has been built
 - [ ] 4 Spaces used (No tabs)
 - [ ] New line at the end of files
+- [ ] Updated gh-pages documentation at `/docs/`
 
 ## Naming
 
@@ -24,3 +25,7 @@ Thanks for your interest in contributing to this project. To help ensure the lib
 - ### Loader Naming
   - All loaders should be prefixed with `netrice-`
   - Aim for a `SHAPE-DESCRIPTOR-MODIFIER` naming system where possible
+
+## Building the project
+
+To build the project, run `npm i` and then `gulp build`. You can do `gulp watch` to watch for file changes after the initial build.

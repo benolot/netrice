@@ -3,37 +3,17 @@ Simple Single Element CSS Spinners/Loaders
 
 ## TODO
 
-- [ ] Github pages Website
+- [X] Github pages Website (https://benolot.github.io/netrice)
 - [X] Add proper documentation for contributors (See Contributing.md)
-- [ ] Add proper documentation for users (How to use)
+- [X] Add proper documentation for users (How to use)
 - [ ] Investigate and setup SCSS quality checks
 - [ ] Issue template
 - [ ] Make colours and sizing and speed controlable with classes
-
-## Notes
-`gulp build`
-
-`gulp watch`
-
-Loaders in `/loaders/`
-
-Animations in `_animations.scss`
-
-Variables in `_variables.scss`
-
-Prefix all files with `_`
-
-Requirements for PR:
-
-- 4 spaces (no tabs)
-- Correct file placement
-- Correct file naming
-- Built distribution CSS
-- Provide transparent and non transparent versions where applicable
-- uses variables not hard coded
+- [ ] Make github pages site mobile friendly
+- [ ] Make all loaders block elements to ensure they work out of the box with `<i>` tags instead of `<div>` tags
 
 ## Usage
 
-_Coming Soon_
+See the [Documentation](https://benolot.github.io/netrice) for details.
 
 Example usage: `<div class="netrice-circle"></div>` or `<div class="netrice-square-folding"></div>`
